@@ -1,0 +1,22 @@
+﻿-- Insert 20 mẫu Laptop vào bảng Laptop
+INSERT INTO Laptop (TEN, GIA, THONGSO, THONGTIN, IMAGE) VALUES
+(N'Dell XPS 13 9315', 29999000, N'Intel Core i7-1250U, RAM 16GB, SSD 512GB, 13.4" FHD+', N'Laptop siêu mỏng nhẹ, hiệu năng cao, màn hình InfinityEdge', '1.png'),
+(N'MacBook Air M2 2022', 27999000, N'Apple M2, RAM 8GB, SSD 256GB, 13.6" Liquid Retina', N'Dòng Air mới mỏng nhẹ, hiệu năng vượt trội với chip M2.', '2.png'),
+(N'Asus ROG Strix G16 2023', 49999000, N'Intel Core i9-13980HX, RAM 16GB, SSD 1TB, RTX 4070, 16" FHD+ 165Hz', N'Laptop gaming cao cấp, hiệu suất cực mạnh, màn hình 165Hz.', '3.png'),
+(N'HP Spectre x360 14', 36999000, N'Intel Core i7-1355U, RAM 16GB, SSD 1TB, 13.5" OLED 3K2K', N'Laptop 2-in-1 cao cấp, màn hình cảm ứng OLED tuyệt đẹp.', '4.png'),
+(N'Lenovo ThinkPad X1 Carbon Gen 11', 42999000, N'Intel Core i7-1365U, RAM 16GB, SSD 512GB, 14" 2.8K OLED', N'Dòng business ultrabook đẳng cấp, độ bền đạt chuẩn quân sự.', '5.png'),
+(N'Acer Swift X 14', 27999000, N'Intel Core i7-13700H, RAM 16GB, SSD 1TB, RTX 4050, 14.5" 2.8K OLED', N'Laptop mỏng nhẹ hiệu năng cao, đồ họa RTX cho sáng tạo.', '6.png'),
+(N'LG Gram 17 (2023)', 44999000, N'Intel Core i7-1360P, RAM 16GB, SSD 1TB, 17" WQXGA', N'Laptop siêu nhẹ 17 inch, phù hợp cho dân văn phòng di động.', '7.png'),
+(N'MSI Stealth 14 Studio', 52999000, N'Intel Core i7-13700H, RAM 16GB, SSD 1TB, RTX 4060, 14" QHD+ 240Hz', N'Laptop gaming di động, màn hình siêu nhanh 240Hz.', '8.png'),
+(N'Asus Zenbook 14 OLED', 23999000, N'AMD Ryzen 7 7730U, RAM 16GB, SSD 512GB, 14" 2.8K OLED', N'Màn OLED tuyệt đẹp, hiệu suất tốt cho công việc và học tập.', '9.png'),
+(N'Dell Inspiron 14 5430', 18999000, N'Intel Core i5-1335U, RAM 8GB, SSD 512GB, 14" FHD+', N'Laptop phổ thông, thiết kế chắc chắn, phù hợp học sinh sinh viên.', '10.png'),
+(N'Acer Nitro 5 AN515-58', 24999000, N'Intel Core i5-12500H, RAM 16GB, SSD 512GB, RTX 3050, 15.6" FHD 144Hz', N'Laptop gaming phổ thông, cấu hình tốt giá hợp lý.', '11.png'),
+(N'HP Envy x360 13', 22999000, N'AMD Ryzen 5 7530U, RAM 16GB, SSD 512GB, 13.3" FHD Touch', N'Laptop xoay gập 2-trong-1, màn hình cảm ứng.', '12.png'),
+(N'Lenovo Yoga Slim 7', 25999000, N'AMD Ryzen 7 6800HS, RAM 16GB, SSD 512GB, 14" 2.8K OLED', N'Laptop mỏng nhẹ, pin trâu, màn OLED.', '13.png'),
+(N'Gigabyte G5 KF', 25999000, N'Intel Core i5-12500H, RAM 16GB, SSD 512GB, RTX 4060, 15.6" FHD 144Hz', N'Laptop gaming giá tốt, hiệu suất mạnh.', '14.png'),
+(N'Asus TUF Gaming F15 FX507', 26999000, N'Intel Core i5-12500H, RAM 16GB, SSD 512GB, RTX 4050, 15.6" FHD 144Hz', N'Dòng TUF Gaming bền bỉ, hiệu năng cao.', '15.png'),
+(N'Apple MacBook Pro 14 M3 2023', 48999000, N'Apple M3, RAM 16GB, SSD 512GB, 14.2" Liquid Retina XDR', N'Dòng Pro mới cực mạnh mẽ, màn hình XDR đỉnh cao.', '16.png'),
+(N'Dell G16 7630', 39999000, N'Intel Core i7-13650HX, RAM 16GB, SSD 1TB, RTX 4060, 16" QHD+ 165Hz', N'Laptop gaming 16 inch, giá hợp lý.', '17.png'),
+(N'Razer Blade 14 (2023)', 67999000, N'AMD Ryzen 9 7940HS, RAM 16GB, SSD 1TB, RTX 4070, 14" QHD+ 240Hz', N'Dòng gaming cao cấp nhỏ gọn nhất thế giới.', '18.png'),
+(N'Asus Vivobook 15 OLED A1505', 16999000, N'Intel Core i5-12500H, RAM 8GB, SSD 512GB, 15.6" FHD OLED', N'Laptop phổ thông màn OLED siêu đẹp.', '19.png'),
+(N'MSI Modern 14 C13M', 13999000, N'Intel Core i5-1335U, RAM 8GB, SSD 512GB, 14" FHD', N'Laptop phổ thông nhẹ nhàng, giá tốt.', '20.png');
